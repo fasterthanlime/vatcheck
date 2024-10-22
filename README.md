@@ -1,4 +1,4 @@
-# vatcheck2297_bot
+# vatcheck
 
 I recently created a new company and the French tax authority assigned me
 a tax number. Unfortunately it's not in some database yet, which means
