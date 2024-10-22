@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vat-checker"
+version = "0.1.0"
+description = "VAT checker script with Telegram bot notifications"
+requires-python = ">=3.8"
+dependencies = ["requests>=2.31.0", "python-telegram-bot>=20.5"]
